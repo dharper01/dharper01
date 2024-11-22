@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharper01
 - 👀 I’m interested in ... cloud security
-- 🌱 I’m currently learning ... Azure 
+- 🌱 I’m currently learning ... Azure, IAM, RBAC, PIM, SSO, MFA 
 - 💞️ I’m looking to collaborate on ... Azure security labs/ projects
 - 📫 How to reach me ... dyna.harper@gmail.com
 - 😄 Pronouns: ... she/her
